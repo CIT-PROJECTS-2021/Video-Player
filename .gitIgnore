@@ -1,0 +1,6 @@
+.env
+build
+dist
+MediaPlayer
+__pycache__
+Video_player.spec
